@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//kytk
         editText = (EditText) findViewById(R.id.et1);
         button1 = (Button) findViewById(R.id.btn1);
         button2 = (Button) findViewById(R.id.btn2);
